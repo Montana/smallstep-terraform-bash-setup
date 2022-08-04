@@ -2,8 +2,8 @@
 Smallstep, Terraform Bash Setup I'm configuring for myself.
 
 * Step one clone this.
-* Step two run `chmod u+x step-terraform.sh` 
-* Then run `./step-terraform.sh`
+* Step two run `chmod u+x step-terraform.sh`. 
+* Then run `./step-terraform.sh`.
 
 I have these snippets I made on a crafty macOS app that makes them easily available and accessible.
 
